@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\jjerm\desktop\poker\poker_kosti\main.cpp(837): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\jjerm\desktop\poker\poker_kosti\main.cpp(847): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\jjerm\desktop\poker\poker_kosti\main.cpp(917): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\jjerm\desktop\poker\poker_kosti\main.cpp(1200): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\jjerm\desktop\poker\poker_kosti\main.cpp(1210): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\jjerm\desktop\poker\poker_kosti\main.cpp(1261): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\jjerm\desktop\poker\poker_kosti\main.cpp(1180): warning C4715: Pole::calculate_score: значение возвращается не при всех путях выполнения
+  Poker_kosti.vcxproj -> C:\Users\jjerm\Desktop\POKER\Debug\Poker_kosti.exe
+  Poker_kosti.vcxproj -> C:\Users\jjerm\Desktop\POKER\Debug\Poker_kosti.pdb (Partial PDB)
